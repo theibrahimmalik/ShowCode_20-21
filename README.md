@@ -54,7 +54,7 @@
 7        | Crack The Code   | Feb 15th - Mar 1st  | :white_check_mark:                 
 8        | Alaric's Treasure| Mar 1st - Mar 15th  |       
 9        | The Heist        | Mar 15th - Mar 29th |                     
-10       | TBC              | Mar 29th - Apr 12th |                     
-11       | TBC              | Apr 12th - Apr 26th |                     
-12       | TBC              | Apr 26th - May 10th |                    
-13       | TBC              | May 10th - May 24th |                    
+10       | Galatea          | Mar 29th - Apr 12th |                     
+11       | The Archives     | Apr 12th - Apr 26th |                     
+12       | The Event        | Apr 26th - May 10th |                    
+13       | Chain Code       | May 10th - May 24th |                    
